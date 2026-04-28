@@ -1,16 +1,24 @@
-## Hi there 👋
+# Привет, меня зовут Егор или же просто Космо
 
-<!--
-**KOSMOGOR/KOSMOGOR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+На данный момент я хочу учиться программировать игры и для этого использую Unity.
 
-Here are some ideas to get you started:
+## Практические Навыки
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Имею опыт разработки на Unity и C\#
+- Использую Git для контроля версий и знаю как применять его в совместной работе
+- Умею работать с базами данных SQL (PostgreSQL, MySQL)
+- Есть понимание как должен работать Game Design в играх (но полноценную игру в одиночку я пока не смогу сделать)
+- Есть опыт применения процедурной генерации для создания карт
+- Работал с такими языками как Rust, C++, Java, Node.Js, Python и Lua, если они вдруг понадобятся
+- Имею понимание в DevOps и развёртке приложений (<https://github.com/KOSMOGOR/DevOps-Core-Course>)
+
+## Общие Навыки
+
+- Знаком с принципами ООП и паттернами порграммирования
+- Умею работать в команде
+- Знаю английский на уровне B1-B2
+
+## Примеры работ
+
+- Простая карточная игра про борьбу с зомби ([код](https://github.com/KOSMOGOR/LastStand/tree/main), [поиграть](https://rugar.itch.io/laststand)), кодом игры полностью занимался я. Игра была сделана во время геймджема, так что она ближе к прототипу. Игра использует EventSystem для применения эффектов карт.
+- Рогалик с рисованием заклинаний ([код](https://github.com/IU-Capstone-Project-2025/SignGame), [поиграть](https://dorley174.itch.io/sign-game)), я занимался генерацией карты и ещё несколькими небольшими задачами.
